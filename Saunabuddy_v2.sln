@@ -1,0 +1,135 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Saunabuddy_v2", "Saunabuddy_v2.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LinkedList-1.3.2", "Libraries\LinkedList\1.3.2\LinkedList\LinkedList-1.3.2.vcxitems", "{D2706114-4366-4579-8CB6-A55E8695065F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Wire-2.0.0", "Libraries\Wire\2.0.0\Wire\Wire-2.0.0.vcxitems", "{48FBF7E3-6838-44C6-AC82-3B062FF6A5E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftTimers-2.0.0", "Libraries\SoftTimers\2.0.0\SoftTimers\SoftTimers-2.0.0.vcxitems", "{809E0541-9A4E-4307-9A7C-B107C8FE328F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_GFX_Library-1.10.10", "Libraries\Adafruit_GFX_Library\1.10.10\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.10.vcxitems", "{57347019-BE71-4D9E-9420-AD571865241C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPI-2.0.0", "Libraries\SPI\2.0.0\SPI\SPI-2.0.0.vcxitems", "{26F9B4E1-C51B-4512-AC8F-78A958A4CC87}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_SSD1306-2.4.6", "Libraries\Adafruit_SSD1306\2.4.6\Adafruit_SSD1306\Adafruit_SSD1306-2.4.6.vcxitems", "{D1BC8357-B563-4637-99DA-39F4FF9CBD04}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_BusIO-1.9.0", "Libraries\Adafruit_BusIO\1.9.0\Adafruit_BusIO\Adafruit_BusIO-1.9.0.vcxitems", "{66889134-4158-43A0-B9D4-42A482431288}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Adafruit_SHT31_Library-2.0.0", "Libraries\Adafruit_SHT31_Library\2.0.0\Adafruit_SHT31_Library\Adafruit_SHT31_Library-2.0.0.vcxitems", "{508A5D41-974D-4BE9-AF06-7D44D249C43D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WiFi-2.0.0", "Libraries\WiFi\2.0.0\WiFi\WiFi-2.0.0.vcxitems", "{A5186763-91BF-4090-B4A7-D89E3D2E4505}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebServer-2.0.0", "Libraries\WebServer\2.0.0\WebServer\WebServer-2.0.0.vcxitems", "{29C1084D-745C-45AD-82F6-FF13F952516E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FS-2.0.0", "Libraries\FS\2.0.0\FS\FS-2.0.0.vcxitems", "{837929F1-D353-4091-B38D-3C88288BB289}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoConnect-1.2.2", "Libraries\AutoConnect\1.2.2\AutoConnect\AutoConnect-1.2.2.vcxitems", "{1CB0552A-39BF-4AC9-BA60-C73D1329950A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTTPClient-2.0.0", "Libraries\HTTPClient\2.0.0\HTTPClient\HTTPClient-2.0.0.vcxitems", "{4D46BDA0-B4D2-4F23-AD82-ACD327EC162B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WiFiClientSecure-2.0.0", "Libraries\WiFiClientSecure\2.0.0\WiFiClientSecure\WiFiClientSecure-2.0.0.vcxitems", "{65FC5D0A-2C03-48A4-B935-1E376AF23045}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HTTPUpdate-2.0.0", "Libraries\HTTPUpdate\2.0.0\HTTPUpdate\HTTPUpdate-2.0.0.vcxitems", "{4C93E518-D78C-49CD-AE35-2715B8BB16DE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Update-2.0.0", "Libraries\Update\2.0.0\Update\Update-2.0.0.vcxitems", "{955B1607-491C-4FD0-A0D0-3D5172B5039B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DNSServer-2.0.0", "Libraries\DNSServer\2.0.0\DNSServer\DNSServer-2.0.0.vcxitems", "{08C55AEF-D702-4894-8503-E20F556DB30A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EEPROM-2.0.0", "Libraries\EEPROM\2.0.0\EEPROM\EEPROM-2.0.0.vcxitems", "{D145D80C-0D56-40BC-AB1D-CAF3EC63004A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PageBuilder-1.4.3", "Libraries\PageBuilder\1.4.3\PageBuilder\PageBuilder-1.4.3.vcxitems", "{CB1C4DE2-7F44-40F7-B811-E5BC2D57FFA7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Preferences-2.0.0", "Libraries\Preferences\2.0.0\Preferences\Preferences-2.0.0.vcxitems", "{EFF49F5F-AA5E-4E63-B8FE-E1A72E650B98}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SPIFFS-2.0.0", "Libraries\SPIFFS\2.0.0\SPIFFS\SPIFFS-2.0.0.vcxitems", "{27912EEA-14DF-4C11-9360-E1D9FCFF572E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ticker-2.0.0", "Libraries\Ticker\2.0.0\Ticker\Ticker-2.0.0.vcxitems", "{2DA24D56-1360-4C37-9D06-6C40A7A4DFD6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduinoJson-6.18.3", "Libraries\ArduinoJson\6.18.3\ArduinoJson\ArduinoJson-6.18.3.vcxitems", "{BEAC2E54-C5DF-4515-9AC7-314AE0ED2B7A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SD-2.0.0", "Libraries\SD\2.0.0\SD\SD-2.0.0.vcxitems", "{31C457AA-8857-4515-AD2D-CD54321A4CE3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESPmDNS-2.0.0", "Libraries\ESPmDNS\2.0.0\ESPmDNS\ESPmDNS-2.0.0.vcxitems", "{2C4CDA81-6BDA-4F08-828C-F28BD662AD86}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AsyncTCP-1.1.1", "Libraries\AsyncTCP\1.1.1\AsyncTCP\AsyncTCP-1.1.1.vcxitems", "{E4EF9001-9865-4AE7-89D5-9486BC0E26AC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ESPAsyncWebServer-master-1.2.3", "Libraries\ESPAsyncWebServer-master\1.2.3\ESPAsyncWebServer-master\ESPAsyncWebServer-master-1.2.3.vcxitems", "{36CEEDBA-B56A-4D06-85E6-5F0162402D81}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Libraries\DNSServer\2.0.0\DNSServer\DNSServer-2.0.0.vcxitems*{08c55aef-d702-4894-8503-e20f556db30a}*SharedItemsImports = 9
+		Libraries\AutoConnect\1.2.2\AutoConnect\AutoConnect-1.2.2.vcxitems*{1cb0552a-39bf-4ac9-ba60-c73d1329950a}*SharedItemsImports = 9
+		Libraries\SPI\2.0.0\SPI\SPI-2.0.0.vcxitems*{26f9b4e1-c51b-4512-ac8f-78a958a4cc87}*SharedItemsImports = 9
+		Libraries\SPIFFS\2.0.0\SPIFFS\SPIFFS-2.0.0.vcxitems*{27912eea-14df-4c11-9360-e1d9fcff572e}*SharedItemsImports = 9
+		Libraries\WebServer\2.0.0\WebServer\WebServer-2.0.0.vcxitems*{29c1084d-745c-45ad-82f6-ff13f952516e}*SharedItemsImports = 9
+		Libraries\ESPmDNS\2.0.0\ESPmDNS\ESPmDNS-2.0.0.vcxitems*{2c4cda81-6bda-4f08-828c-f28bd662ad86}*SharedItemsImports = 9
+		Libraries\Ticker\2.0.0\Ticker\Ticker-2.0.0.vcxitems*{2da24d56-1360-4c37-9d06-6c40a7a4dfd6}*SharedItemsImports = 9
+		Libraries\SD\2.0.0\SD\SD-2.0.0.vcxitems*{31c457aa-8857-4515-ad2d-cd54321a4ce3}*SharedItemsImports = 9
+		Libraries\ESPAsyncWebServer-master\1.2.3\ESPAsyncWebServer-master\ESPAsyncWebServer-master-1.2.3.vcxitems*{36ceedba-b56a-4d06-85e6-5f0162402d81}*SharedItemsImports = 9
+		Libraries\Wire\2.0.0\Wire\Wire-2.0.0.vcxitems*{48fbf7e3-6838-44c6-ac82-3b062ff6a5e2}*SharedItemsImports = 9
+		Libraries\HTTPUpdate\2.0.0\HTTPUpdate\HTTPUpdate-2.0.0.vcxitems*{4c93e518-d78c-49cd-ae35-2715b8bb16de}*SharedItemsImports = 9
+		Libraries\HTTPClient\2.0.0\HTTPClient\HTTPClient-2.0.0.vcxitems*{4d46bda0-b4d2-4f23-ad82-acd327ec162b}*SharedItemsImports = 9
+		Libraries\Adafruit_SHT31_Library\2.0.0\Adafruit_SHT31_Library\Adafruit_SHT31_Library-2.0.0.vcxitems*{508a5d41-974d-4be9-af06-7d44d249c43d}*SharedItemsImports = 9
+		Libraries\Adafruit_GFX_Library\1.10.10\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.10.vcxitems*{57347019-be71-4d9e-9420-ad571865241c}*SharedItemsImports = 9
+		Libraries\WiFiClientSecure\2.0.0\WiFiClientSecure\WiFiClientSecure-2.0.0.vcxitems*{65fc5d0a-2c03-48a4-b935-1e376af23045}*SharedItemsImports = 9
+		Libraries\Adafruit_BusIO\1.9.0\Adafruit_BusIO\Adafruit_BusIO-1.9.0.vcxitems*{66889134-4158-43a0-b9d4-42a482431288}*SharedItemsImports = 9
+		Libraries\SoftTimers\2.0.0\SoftTimers\SoftTimers-2.0.0.vcxitems*{809e0541-9a4e-4307-9a7c-b107c8fe328f}*SharedItemsImports = 9
+		Libraries\FS\2.0.0\FS\FS-2.0.0.vcxitems*{837929f1-d353-4091-b38d-3c88288bb289}*SharedItemsImports = 9
+		Libraries\Update\2.0.0\Update\Update-2.0.0.vcxitems*{955b1607-491c-4fd0-a0d0-3d5172b5039b}*SharedItemsImports = 9
+		Libraries\WiFi\2.0.0\WiFi\WiFi-2.0.0.vcxitems*{a5186763-91bf-4090-b4a7-d89e3d2e4505}*SharedItemsImports = 9
+		Libraries\ArduinoJson\6.18.3\ArduinoJson\ArduinoJson-6.18.3.vcxitems*{beac2e54-c5df-4515-9ac7-314ae0ed2b7a}*SharedItemsImports = 9
+		Libraries\Adafruit_BusIO\1.9.0\Adafruit_BusIO\Adafruit_BusIO-1.9.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Adafruit_GFX_Library\1.10.10\Adafruit_GFX_Library\Adafruit_GFX_Library-1.10.10.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Adafruit_SHT31_Library\2.0.0\Adafruit_SHT31_Library\Adafruit_SHT31_Library-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Adafruit_SSD1306\2.4.6\Adafruit_SSD1306\Adafruit_SSD1306-2.4.6.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\ArduinoJson\6.18.3\ArduinoJson\ArduinoJson-6.18.3.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\AsyncTCP\1.1.1\AsyncTCP\AsyncTCP-1.1.1.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\AutoConnect\1.2.2\AutoConnect\AutoConnect-1.2.2.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\DNSServer\2.0.0\DNSServer\DNSServer-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\EEPROM\2.0.0\EEPROM\EEPROM-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\ESPAsyncWebServer-master\1.2.3\ESPAsyncWebServer-master\ESPAsyncWebServer-master-1.2.3.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\ESPmDNS\2.0.0\ESPmDNS\ESPmDNS-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\FS\2.0.0\FS\FS-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\HTTPClient\2.0.0\HTTPClient\HTTPClient-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\HTTPUpdate\2.0.0\HTTPUpdate\HTTPUpdate-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\LinkedList\1.3.2\LinkedList\LinkedList-1.3.2.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\PageBuilder\1.4.3\PageBuilder\PageBuilder-1.4.3.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Preferences\2.0.0\Preferences\Preferences-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\SD\2.0.0\SD\SD-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\SoftTimers\2.0.0\SoftTimers\SoftTimers-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\SPIFFS\2.0.0\SPIFFS\SPIFFS-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\SPI\2.0.0\SPI\SPI-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Ticker\2.0.0\Ticker\Ticker-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Update\2.0.0\Update\Update-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\WebServer\2.0.0\WebServer\WebServer-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\WiFiClientSecure\2.0.0\WiFiClientSecure\WiFiClientSecure-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\WiFi\2.0.0\WiFi\WiFi-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\Wire\2.0.0\Wire\Wire-2.0.0.vcxitems*{c5f80730-f44f-4478-bdae-6634efc2ca88}*SharedItemsImports = 4
+		Libraries\PageBuilder\1.4.3\PageBuilder\PageBuilder-1.4.3.vcxitems*{cb1c4de2-7f44-40f7-b811-e5bc2d57ffa7}*SharedItemsImports = 9
+		Libraries\EEPROM\2.0.0\EEPROM\EEPROM-2.0.0.vcxitems*{d145d80c-0d56-40bc-ab1d-caf3ec63004a}*SharedItemsImports = 9
+		Libraries\Adafruit_SSD1306\2.4.6\Adafruit_SSD1306\Adafruit_SSD1306-2.4.6.vcxitems*{d1bc8357-b563-4637-99da-39f4ff9cbd04}*SharedItemsImports = 9
+		Libraries\LinkedList\1.3.2\LinkedList\LinkedList-1.3.2.vcxitems*{d2706114-4366-4579-8cb6-a55e8695065f}*SharedItemsImports = 9
+		Libraries\AsyncTCP\1.1.1\AsyncTCP\AsyncTCP-1.1.1.vcxitems*{e4ef9001-9865-4ae7-89d5-9486bc0e26ac}*SharedItemsImports = 9
+		Libraries\Preferences\2.0.0\Preferences\Preferences-2.0.0.vcxitems*{eff49f5f-aa5e-4e63-b8fe-e1a72e650b98}*SharedItemsImports = 9
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596C1937-A56D-4AE1-9A69-3AF7EBCD054C}
+	EndGlobalSection
+EndGlobal

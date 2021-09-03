@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding ="utf-8" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" >
+  <PropertyGroup Label="Globals" >
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <ItemsProjectGuid>{1cb0552a-39bf-4ac9-ba60-c73d1329950a}</ItemsProjectGuid>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>%(AdditionalIncludeDirectories);$(MSBuildThisFileDirectory)</AdditionalIncludeDirectories>
+    </ClCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SourceItemsFromImports" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnect.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectAux.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectCredential.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectOTA.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectPage.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectTicker.cpp" />
+<ClCompile Include="$(MSBuildThisFileDirectory)src\AutoConnectUpdate.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnect.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectAux.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectAuxImpl.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectCredential.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectDefs.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectElement.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectElementBasis.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectElementBasisImpl.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectElementJson.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectElementJsonImpl.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectJsonDefs.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectLabels.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectOTA.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectOTAPage.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectPage.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectTicker.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectTypes.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectUpdate.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectUpdatePage.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectUpload.h" />
+<ClInclude Include="$(MSBuildThisFileDirectory)src\AutoConnectUploadImpl.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="$(MSBuildThisFileDirectory)keywords.txt" />
+<Text Include="$(MSBuildThisFileDirectory)library.properties" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)library.json" />
+<None Include="$(MSBuildThisFileDirectory)LICENSE" />
+<None Include="$(MSBuildThisFileDirectory)mkdocs.yml" />
+<None Include="$(MSBuildThisFileDirectory)README.md" />
+<None Include="$(MSBuildThisFileDirectory)src\updateserver\README.md" />
+<None Include="$(MSBuildThisFileDirectory)src\updateserver\python2\updateserver.py" />
+<None Include="$(MSBuildThisFileDirectory)src\updateserver\python3\updateserver.py" />
+  </ItemGroup>
+</Project>

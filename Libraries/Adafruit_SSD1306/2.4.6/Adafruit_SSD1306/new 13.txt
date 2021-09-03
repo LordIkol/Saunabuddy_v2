@@ -1,0 +1,2 @@
+C:\Program Files\PixInsight\library\rgb_starnet_weights.pb
+https://github.com/kurimawxx00/wifi-manager/blob/main/WiFiManager.h
